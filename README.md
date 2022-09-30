@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Muhammad Ammar</h1>
-<h3 align="center">A passionate Senior Software Engineer at Etisalat</h3>
+<h3 align="center">A passionate Senior Software Engineer at elGrocer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ammar299&label=Profile%20views&color=0e75b6&style=flat" alt="ammar299" /> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-2.5%20Year-green?style=plastic&logo=ruby&logoColor=red"/> <img src="https://img.shields.io/badge/Company-Etisalat-red?style=plastic&logo=HomeAdvisor"/> <img src="https://img.shields.io/github/commit-activity/y/ammar299/Rails-Learning-Project?color=FF&label=Comments%20Yearly&logo=git&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=ammar299&label=Profile%20views&color=0e75b6&style=flat" alt="ammar299" /> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-3%20Year-green?style=plastic&logo=ruby&logoColor=red"/> <img src="https://img.shields.io/badge/Company-Etisalat-red?style=plastic&logo=HomeAdvisor"/> <img src="https://img.shields.io/github/commit-activity/y/ammar299/Rails-Learning-Project?color=FF&label=Comments%20Yearly&logo=git&style=plastic" />
 
 - 🔭 I’m currently working on **Elgrocer**
 
